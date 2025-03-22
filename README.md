@@ -60,11 +60,11 @@ Cada prueba técnica incluye su propio README con instrucciones específicas par
 
 1. Navegar al directorio de la prueba específica:
    ```bash
-   cd 01-pruebaTecnicaHentel
+   cd 01-concatenarJson
    ```
 2. Si ya tiene abierto xampp y clono el repositorio en la carpeta htdcos, ingrese a:
    ```bash
-   http://localhost/pruebasTecnicasPHP/01-pruebaTecnicaHentel/
+   http://localhost/pruebasTecnicasPHP/01-concatenarJson/
    # O usar el servidor web de tu preferencia
    ```
 
